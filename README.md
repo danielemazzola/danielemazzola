@@ -1,4 +1,4 @@
-# Hi there! I'm Daniele Mazzola ![Daniele](https://avatars.githubusercontent.com/u/60399068?v=4&size=40)
+# Hi there! I'm Daniele Mazzola 😎
 
 ### About Me
 “I focus on understanding the client's needs, providing support at all times. Communication and teamwork are my main pillars. Consistency is my best ally. I always seek ways to keep improving and growing.”
