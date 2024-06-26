@@ -32,4 +32,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-mazzola/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielemazzola&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielemazzola&layout=compact&theme=radical)
