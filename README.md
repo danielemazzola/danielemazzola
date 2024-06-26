@@ -16,6 +16,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielemazzola&layout=compact&theme=radical)
+
 ### Featured Projects:
 - **Course Platform with Multilevel Marketing System: VECRECE**
   - [Frontend](https://github.com/danielemazzola/FRONTEND_VECRECE)
@@ -32,5 +34,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-mazzola/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielemazzola&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielemazzola&layout=compact&theme=radical)
