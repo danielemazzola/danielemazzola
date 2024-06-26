@@ -1,6 +1,7 @@
 # Hi there! I'm Daniele Mazzola 😎
 
-![BANNER](https://64.media.tumblr.com/8b868373b16c535b6494ea3f6a323030/499da71b41a48e3b-d6/s500x750/49d9c1a958466e86eec65ae30b22f98b43a8a06f.gifv)
+<img src="https://64.media.tumblr.com/8b868373b16c535b6494ea3f6a323030/499da71b41a48e3b-d6/s500x750/49d9c1a958466e86eec65ae30b22f98b43a8a06f.gifv" width="100" height="100" alt="BANNER" />
+
 ### About Me
 “I focus on understanding the client's needs, providing support at all times. Communication and teamwork are my main pillars. Consistency is my best ally. I always seek ways to keep improving and growing.”
 
