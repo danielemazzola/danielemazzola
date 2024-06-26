@@ -1,6 +1,6 @@
 # Hi there! I'm Daniele Mazzola 😎
 
-<img src="https://i.pinimg.com/originals/e4/59/1a/e4591a2e62cbc9e2980e0696f6643ead.gif" width="100%" height="100%" alt="BANNER" />
+<img src="https://raw.githubusercontent.com/sineastra/Sineastra/output/github-contribution-grid-snake-dark.svg" width="100%" height="100%" alt="BANNER" />
 
 ### About Me
 “I focus on understanding the client's needs, providing support at all times. Communication and teamwork are my main pillars. Consistency is my best ally. I always seek ways to keep improving and growing.”
