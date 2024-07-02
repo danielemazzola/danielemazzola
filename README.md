@@ -18,14 +18,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielemazzola&layout=compact&theme=radical)
 
-### Featured Projects:
-- **Course Platform with Multilevel Marketing System: VECRECE**
-  - [Frontend](https://github.com/danielemazzola/FRONTEND_VECRECE)
-  - [Backend](https://github.com/danielemazzola/BACKEND_VECRECE)
-  
+### Featured Projects: 
 - **Events Platform - Project 10 from Rock the Code Bootcamp**
   - [Frontend](https://github.com/danielemazzola/PROYECTO_10_FRONT)
   - [Backend](https://github.com/danielemazzola/PROYECTO_10)
+ 
+- **Course Platform with Multilevel Marketing System: VECRECE**
+  - [Frontend](https://github.com/danielemazzola/FRONTEND_VECRECE)
+  - [Backend](https://github.com/danielemazzola/BACKEND_VECRECE)
   
 - **Marvel Characters Platform - Napptilus Challenge**
   - [Frontend](https://github.com/danielemazzola/napptilus-zaraw-challenge)
