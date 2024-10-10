@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielemazzola&layout=compact&theme=radical)
 
 ### Featured Projects: 
-- **BRES-BOX**
+- **RES-BOX**
   - [Frontend](https://github.com/danielemazzola/res-box_v2/tree/main/Resbox-frontend) 
   - [Backend](https://github.com/danielemazzola/res-box_v2/tree/main/Resbox-backend)
 
