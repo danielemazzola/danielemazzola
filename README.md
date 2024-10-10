@@ -19,8 +19,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielemazzola&layout=compact&theme=radical)
 
 ### Featured Projects: 
-- **Back-end - RES-BOX**
-  - [Backend](https://github.com/danielemazzola/resbox-backend)
+- **BRES-BOX**
+  - [Frontend](https://github.com/danielemazzola/res-box_v2/tree/main/Resbox-frontend) 
+  - [Backend](https://github.com/danielemazzola/res-box_v2/tree/main/Resbox-backend)
 
 - **Events Platform - Project 10 from Rock the Code Bootcamp**
   - [Frontend](https://github.com/danielemazzola/PROYECTO_10_FRONT)
