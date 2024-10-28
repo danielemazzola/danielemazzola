@@ -1,4 +1,4 @@
-# Hi there! I'm Daniele Mazzola 😎
+# Hello Word! I'm Daniele Mazzola 😎
 
 <img src="https://raw.githubusercontent.com/sineastra/Sineastra/output/github-contribution-grid-snake-dark.svg" width="100%" height="100%" alt="BANNER" />
 
